@@ -1,14 +1,22 @@
 # dissemination
 
-## Interactive platforms
+|self-hosted|live analysis|lod|data repository|software repository|
+|:--:|:--:|:--:|:--:|:--:|
+|renku|||||
+|mmoda|||||
+|binder|||||
+|datalabs|||||
+|scimma|||||
+|esap|||||
+|fedora lod|||||
+|openaire lod|||||
+|eosc marketplace|||||
+|[connectome](https://connectome-test01-api.switch.ch/v1/swagger/#/)|||||
+|yareta|||||
 
-renku
-binder
 
-## LOD
+## Mixing all in?
 
-fedora lod
-openaire lod
-https://connectome-test01-api.switch.ch/v1/swagger/#/
+there is considerable overlap and interoperability
 
 ogp
